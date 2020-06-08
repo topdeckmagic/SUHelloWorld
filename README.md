@@ -1,2 +1,2 @@
 # SU Bootcamp 1
-Introdcution to Prgramming
+Itroduction to Programming
